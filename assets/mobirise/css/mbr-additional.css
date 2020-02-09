@@ -1117,3 +1117,111 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/mbr-1.jpg");
 }
+.cid-rPXYGX4L9n {
+  background-color: #073b4c;
+}
+.cid-rPXYHQliwt {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rPXYHQliwt P {
+  color: #767676;
+}
+.cid-rPXYK9A6Yw {
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-rPXYK9A6Yw .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-rPXYNAOQrD {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rPXYNAOQrD .content {
+    text-align: center;
+  }
+  .cid-rPXYNAOQrD .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-rPXYNAOQrD .img-logo img {
+  height: 6rem;
+}
+.cid-rPXYNAOQrD .form-group,
+.cid-rPXYNAOQrD .input-group-btn {
+  padding: 0;
+}
+.cid-rPXYNAOQrD .form-control {
+  font-size: .75rem;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-rPXYNAOQrD .input-group-btn .btn {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+  color: #fff;
+  text-align: center;
+}
+.cid-rPXYNAOQrD .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rPXYNAOQrD .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rPXYNAOQrD .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rPXYNAOQrD .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rPXYNAOQrD .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rPXYNAOQrD .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rPXYNAOQrD .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rPXYNAOQrD .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rPXYNAOQrD .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-rPXYNAOQrD .foot-logo {
+    text-align: center !important;
+  }
+  .cid-rPXYNAOQrD .foot-title {
+    text-align: center !important;
+  }
+  .cid-rPXYNAOQrD .mbr-text {
+    text-align: center !important;
+  }
+  .cid-rPXYNAOQrD .form-group {
+    margin: 0;
+  }
+}
